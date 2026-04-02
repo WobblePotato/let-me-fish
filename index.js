@@ -1,7 +1,7 @@
-const	ACTION_DELAY_THROW_ROD	= [6023, 6798],		// [Min, Max] in ms, 1000 ms = 1 sec
-		ACTION_DELAY_FISH_START	= [1345, 2656],		// [Min, Max] - the pressing of F button to reel and start the minigame
-		ACTION_DELAY_FISH_CATCH	= [5564, 15453],	// [Min, Max] - time to win the fishing minigame and get a fish as prize
-		DELAY_BASED_ON_FISH_TIER= true; // tier 4 would get caught 4 sec longer, BAF (tier 11) would get caught 11 sec longer etc
+const	ACTION_DELAY_THROW_ROD	= [2023, 2798],		// [Min, Max] in ms, 1000 ms = 1 sec
+		ACTION_DELAY_FISH_START	= [1345, 1656],		// [Min, Max] - the pressing of F button to reel and start the minigame
+		ACTION_DELAY_FISH_CATCH	= [1564, 2453],	// [Min, Max] - time to win the fishing minigame and get a fish as prize
+		DELAY_BASED_ON_FISH_TIER= false; // tier 4 would get caught 4 sec longer, BAF (tier 11) would get caught 11 sec longer etc
 
 const   path = require('path'),
 		fs = require('fs');
