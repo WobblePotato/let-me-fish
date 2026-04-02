@@ -2,7 +2,7 @@
 	"files": {
 		"README.md": "f5b4090fd18e9e58ffb26457f34a2dbab8a59b7d558f5648cf13bd194c23f33b",
 		"index.js": "b55be6795d6c43ba997ca0ef85164a08b383d280717aa3d81a2a359d6e767bef",
-		"module.json": "7707b849da8cd8b1ef750c36e0ab699ae98590f8a7426cd08c9a504c9396b074"
+		"module.json": "ef620340ad14acc3912de8a911c9a77cb16e6cec107f9334493de7f68550ba48"
 	},
 	"defs": {
 		"C_CANCEL_CONTRACT": 1,
