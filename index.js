@@ -381,6 +381,7 @@ module.exports = function LetMeFish(mod) {
 				command.message("Fish goes into dismantler: id " + thefish.id + ", " + thefish.dbid);
 				putinfishes++;
 				mod.toServer('C_RQ_ADD_ITEM_TO_DECOMPOSITION_CONTRACT', 1, {
+					gameId: myGameId,
 					contractId: vContractId,
 					dbid: thefish.dbid,
 					id: thefish.id,
