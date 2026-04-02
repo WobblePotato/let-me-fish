@@ -1,8 +1,8 @@
 {
 	"files": {
 		"README.md": "f5b4090fd18e9e58ffb26457f34a2dbab8a59b7d558f5648cf13bd194c23f33b",
-		"index.js": "b55be6795d6c43ba997ca0ef85164a08b383d280717aa3d81a2a359d6e767bef",
-		"module.json": "ef620340ad14acc3912de8a911c9a77cb16e6cec107f9334493de7f68550ba48"
+		"index.js": "bade81011062837cb8d5c70df118874e66b17498e0977f317cbe88d1d1dc385b",
+		"module.json": "648f0cac27fabf03263b21e829435ace4914747400a987df9e559edd610a8476"
 	},
 	"defs": {
 		"C_CANCEL_CONTRACT": 1,
