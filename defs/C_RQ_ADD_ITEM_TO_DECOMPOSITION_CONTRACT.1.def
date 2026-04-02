@@ -1,4 +1,5 @@
 # max 20 items at once
+uint64 gameId
 uint32 contractId # type 89
 uint64 dbid
 int32 id
